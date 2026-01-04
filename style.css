@@ -1192,20 +1192,6 @@ a {
 }
 
 
-@media (max-width: 1024px) {
-  .blog-page {
-    padding: 0 30px;
-    margin: 40px auto;
-  }
-
-  .blog-posts-grid {
-    gap: 40px 30px;
-  }
-
-  .post-title {
-    font-size: 1.3rem;
-  }
-}
 
 
 @media (max-width: 768px) {
